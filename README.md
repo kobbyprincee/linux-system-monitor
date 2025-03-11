@@ -1,5 +1,4 @@
-A lightweight and powerful Linux system monitoring tool designed to provide real-time insights into your system's performance. This project offers a command-line interface (CLI) to monitor CPU usage, memory consumption, disk activity, network traffic, and running processes, all in one place. Perfect for sysadmins, developers, and power users who want to keep an eye on their system's health.
-Features
+
 
 Usage
 
