@@ -26,5 +26,5 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Keep your Linux system in check with this powerful and easy-to-use system monitor! 🖥️📊
+Keep your Linux system in check with this powerful and easy-to-use system monitor! 
 New chat
